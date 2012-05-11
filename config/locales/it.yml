@@ -584,7 +584,7 @@ it:
   listing_users: "Elenco utenti"
   live: "Live"
   loading: "Caricamento"
-  locale_changed: "Cambio località"
+  locale_changed: "Lingua cambiata"
   log_in: "Accedi"
   logged_in_as: "Accesso effettuato come"
   logged_in_succesfully: "Login effettuato con successo"
